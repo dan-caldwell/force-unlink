@@ -1,0 +1,21 @@
+{
+  "name": "force-unlink",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dan-caldwell/force-unlink.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dan-caldwell/force-unlink/issues"
+  },
+  "homepage": "https://github.com/dan-caldwell/force-unlink#readme",
+  "description": "Force unlink a linked NPM package",
+  "bin": "index.js"
+}
